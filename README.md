@@ -11,7 +11,9 @@ The SuperSales Store Market Power BI Dashboard project entails the development o
 
 
    .Los Angeles Leads in Sales: $175,851
+   
     .Top Sales Regions:
+    
            . Central Region (Houston): $64,504
            
            .West Region (Los Angeles): $175,851
@@ -27,5 +29,12 @@ The SuperSales Store Market Power BI Dashboard project entails the development o
 **Top Category: Technology**
 
            .Best-Selling Product: Phone ($330,007 in total sales)
+           
             .Shipping Preferences
+            
 'Standard Class' is the most preferred shipping mode.
+
+Sales Overview
+
+     .Total Sales: $2.30 Million
+     .Total Profit: $286,400
